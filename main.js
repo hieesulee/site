@@ -3,7 +3,7 @@ import blog, { ga, redirects } from "https://deno.land/x/blog@0.5.0/blog.tsx";
 blog({
   title: "Hieesu",
   author: "Hieesu",
-  avatar: "avatar.png",
+  avatar: "https://avatars.githubusercontent.com/u/68918968?v=4",
   avatarClass: "full",
   links: [
     { title: "Email", url: "mailto:hieesu.me@gmail.com" },
