@@ -9,7 +9,7 @@ blog({
   links: [
     { title: "Email", url: "mailto:hieesu.me@gmail.com" },
     { title: "GitHub", url: "https://github.com/hieesume" },
-    { title: "CV", url: "https://docs.google.com/document/d/1c9LXz4Guwi-LC-kzsB-5CtWiOax-FddIkF4V3agSa_w/edit?usp=sharing" },
+    { title: "CV", url: "https://docs.google.com/document/d/1PiddifUvDXI2FAi022EcZmWhrv6IxxPYnmgVnAr2GH8/edit?usp=sharing" },
   ],
   background: "#fff",
   middlewares: [
